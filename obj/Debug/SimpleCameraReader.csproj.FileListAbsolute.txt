@@ -1,0 +1,16 @@
+c:\users\leica\documents\visual studio 2012\Projects\SimpleCameraReader\SimpleCameraReader\bin\Debug\SimpleCameraReader.exe
+c:\users\leica\documents\visual studio 2012\Projects\SimpleCameraReader\SimpleCameraReader\bin\Debug\SimpleCameraReader.pdb
+c:\users\leica\documents\visual studio 2012\Projects\SimpleCameraReader\SimpleCameraReader\obj\Debug\SimpleCameraReader.csprojResolveAssemblyReference.cache
+c:\users\leica\documents\visual studio 2012\Projects\SimpleCameraReader\SimpleCameraReader\obj\Debug\SimpleCameraReader.FMainForm.resources
+c:\users\leica\documents\visual studio 2012\Projects\SimpleCameraReader\SimpleCameraReader\obj\Debug\SimpleCameraReader.Properties.Resources.resources
+c:\users\leica\documents\visual studio 2012\Projects\SimpleCameraReader\SimpleCameraReader\obj\Debug\SimpleCameraReader.csproj.GenerateResource.Cache
+c:\users\leica\documents\visual studio 2012\Projects\SimpleCameraReader\SimpleCameraReader\obj\Debug\SimpleCameraReader.exe
+c:\users\leica\documents\visual studio 2012\Projects\SimpleCameraReader\SimpleCameraReader\obj\Debug\SimpleCameraReader.pdb
+c:\users\leica\documents\visual studio 2012\Projects\SimpleCameraReader\SimpleCameraReader\bin\Debug\bonetwrap.dll
+C:\Users\Leica\Documents\Visual Studio 2012\Projects\SimpleCameraReader\SimpleCameraReader\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Leica\Documents\Visual Studio 2012\Projects\SimpleCameraReader\SimpleCameraReader\bin\Debug\Emgu.CV.World.dll
+C:\Users\Leica\Documents\Visual Studio 2012\Projects\SimpleCameraReader\SimpleCameraReader\bin\Debug\ZedGraph.dll
+C:\Users\Leica\Documents\Visual Studio 2012\Projects\SimpleCameraReader\SimpleCameraReader\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Leica\Documents\Visual Studio 2012\Projects\SimpleCameraReader\SimpleCameraReader\bin\Debug\Emgu.CV.World.xml
+C:\Users\Leica\Documents\Visual Studio 2012\Projects\SimpleCameraReader\SimpleCameraReader\bin\Debug\ZedGraph.xml
+C:\Users\Leica\Documents\Visual Studio 2012\Projects\SimpleCameraReader\SimpleCameraReader\bin\Debug\zh-CN\ZedGraph.resources.dll

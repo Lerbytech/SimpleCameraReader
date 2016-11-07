@@ -1,0 +1,9 @@
+C:\Users\Leica\documents\visual studio 2012\Projects\SimpleCameraReader\SimpleCameraReader\bin\Release\SimpleCameraReader.exe
+C:\Users\Leica\documents\visual studio 2012\Projects\SimpleCameraReader\SimpleCameraReader\bin\Release\SimpleCameraReader.pdb
+C:\Users\Leica\documents\visual studio 2012\Projects\SimpleCameraReader\SimpleCameraReader\bin\Release\bonetwrap.dll
+C:\Users\Leica\documents\visual studio 2012\Projects\SimpleCameraReader\SimpleCameraReader\obj\Release\SimpleCameraReader.csprojResolveAssemblyReference.cache
+C:\Users\Leica\documents\visual studio 2012\Projects\SimpleCameraReader\SimpleCameraReader\obj\Release\SimpleCameraReader.FMainForm.resources
+C:\Users\Leica\documents\visual studio 2012\Projects\SimpleCameraReader\SimpleCameraReader\obj\Release\SimpleCameraReader.Properties.Resources.resources
+C:\Users\Leica\documents\visual studio 2012\Projects\SimpleCameraReader\SimpleCameraReader\obj\Release\SimpleCameraReader.csproj.GenerateResource.Cache
+C:\Users\Leica\documents\visual studio 2012\Projects\SimpleCameraReader\SimpleCameraReader\obj\Release\SimpleCameraReader.exe
+C:\Users\Leica\documents\visual studio 2012\Projects\SimpleCameraReader\SimpleCameraReader\obj\Release\SimpleCameraReader.pdb
