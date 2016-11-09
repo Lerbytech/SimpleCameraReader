@@ -21,7 +21,7 @@ namespace SimpleCameraReader
   public partial class FMainForm : Form
   {
     //string Path = @"C:\Users\Leica\Documents\Visual Studio 2012\Projects\SimpleCameraSaveFiles\Exp\"; //Путь куда сохраняем файлы
-    string Path = @"C:\Users\Leica\Documents\Visual Studio 2012\Projects\SimpleCameraSaveFiles\Debug\"; //Путь куда сохраняем файлы
+    string Path = @"C:\Users\Leica\Documents\Visual Studio 2012\Projects\SimpleCameraSaveFiles\Debug_lock3\"; //Путь куда сохраняем файлы
     //string Path = @"\\206DEVSTATION\Users\Sima\Desktop\Hren From 209\"; //Путь куда сохраняем файлы
 
     CCameraAdapter camAdapter;// класс камеры
@@ -118,8 +118,8 @@ namespace SimpleCameraReader
           // Работа с очередью
           lock (queueLock)
           {
-              // сохраянем изображение, его номер и время с прошлого изображения
-              QIMG.Enqueue(new Tuple<Bitmap, long, long>(img, scanned_img_number, time_passed));
+            // сохраянем изображение, его номер и время с прошлого изображения
+            QIMG.Enqueue(new Tuple<Bitmap, long, long>((Bitmap)img.Clone(), scanned_img_number, time_passed));
           }
 
           scanned_img_number++;
@@ -142,7 +142,7 @@ namespace SimpleCameraReader
         }
         catch (Exception e)
         {
-          //MessageBox.Show("Something awful happened in ReciveImage> " + e.Message);
+          MessageBox.Show("Something awful happened in ReciveImage> " + e.Message);
         }
       }
       else throw new Exception("VideoWriter not good");
@@ -161,7 +161,6 @@ namespace SimpleCameraReader
         sss = sss.Replace(':', '_');
         timestamp.Save(@"C:\Users\Leica\Documents\Visual Studio 2012\Projects\SimpleCameraSaveFiles\TimeStamps\" + sss + ".png");
         timer.Stop();
-
 
         Image<Bgr, Byte> tmp;
         int i = 0; // порядковый номер изображения
@@ -193,11 +192,11 @@ namespace SimpleCameraReader
             }
             catch (Exception e)
             {
-              // MessageBox.Show(e.Message);
+              MessageBox.Show("StartSaving: shit");
             }
 
           }
-          //Thread.Sleep(0);
+          Thread.Sleep(0);
         }
       }
      ));
